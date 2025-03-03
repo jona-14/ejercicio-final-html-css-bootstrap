@@ -1,0 +1,14 @@
+div nav ul{
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+    text-transform: capitalize;
+    padding: 10px;
+    
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+}
